@@ -111,7 +111,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 392}
   m_MaxSize: {x: 22012, y: 14042}
   vertical: 0
-  controlID: 3430
+  controlID: 1925
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -185,7 +185,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 392}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 3453
+  controlID: 1926
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -370,7 +370,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 52f9ffff00000000742d0000
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -425,9 +425,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.345768, y: -0.05614775, z: 0.2312513}
+    m_Target: {x: 2.0762458, y: 1.3575654, z: 0.22231615}
     speed: 2
-    m_Value: {x: 4.345768, y: -0.05614775, z: 0.2312513}
+    m_Value: {x: 2.0762458, y: 1.3575654, z: 0.22231615}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -459,9 +459,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.829441
+    m_Target: 14.62015
     speed: 2
-    m_Value: 13.829441
+    m_Value: 14.62015
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -510,20 +510,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/scripts
+    - Assets/texture/FXBox
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/scripts
+  - Assets/texture/FXBox
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Ren Yifan\Documents\IndieGameProject\IndieGameProjectUnity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ee2b0000
-    m_LastClickedID: 11246
-    m_ExpandedIDs: 00000000d42a000000ca9a3b
+    m_SelectedIDs: 602d0000
+    m_LastClickedID: 11616
+    m_ExpandedIDs: 00000000e42900002c2a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,7 +551,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d42a000000ca9a3b
+    m_ExpandedIDs: 00000000e42900002c2a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -579,7 +579,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 90350000242f000000000000
+    m_ExpandedInstanceIDs: 90350000242f000000000000b02e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
