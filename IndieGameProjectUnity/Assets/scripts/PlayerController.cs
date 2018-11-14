@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour {
     public VirturalJoystick vj;
     Rigidbody2D rb2d;
     public float movementSpeed;
+    
 
     // Use this for initialization
     void Start () {
